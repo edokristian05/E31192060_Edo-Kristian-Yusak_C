@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456221810748",
+    "project_id": "jemberatk-5a6d8",
+    "storage_bucket": "jemberatk-5a6d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456221810748:android:a32636bf8bc3fc36d4a339",
+        "android_client_info": {
+          "package_name": "com.example.jemberatk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456221810748-ap7327o9p65v0sip7em4homoj6ac1j3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jemberatk",
+            "certificate_hash": "8c16315efc2b62bb5bac058e52cefea56670bca5"
+          }
+        },
+        {
+          "client_id": "456221810748-m24kq2pfv1g9snsdaue1e5m4t1vvqbip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-uxhOtyGJZ_UyK_pi6kv5h1ql3dXyocs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456221810748-m24kq2pfv1g9snsdaue1e5m4t1vvqbip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
